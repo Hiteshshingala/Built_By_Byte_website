@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://builtbybyte.com/</loc><changefreq>weekly</changefreq><priority>1</priority></url>
+  <url><loc>https://builtbybyte.com/services</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://builtbybyte.com/industries</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://builtbybyte.com/case-studies</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://builtbybyte.com/process</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://builtbybyte.com/tech-stack</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://builtbybyte.com/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://builtbybyte.com/blog</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://builtbybyte.com/blog/how-to-build-mvp-in-4-weeks</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://builtbybyte.com/blog/hiring-vs-outsourcing</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://builtbybyte.com/blog/saas-development-cost</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://builtbybyte.com/contact</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+</urlset>
