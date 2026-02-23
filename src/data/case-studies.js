@@ -1,36 +1,36 @@
 export const caseStudies = [
-  {
-    id: 'serviceup',
-    title: 'ServiceUp',
-    subtitle: 'Connecting Amazon and Goodyear with zero documentation',
-    industry: 'Automotive / Fleet Management',
-    clientName: 'ServiceUp',
-    clientCountry: 'US',
-    flagEmoji: '🇺🇸',
-    featured: true,
-    challenge:
-      "Amazon needed a platform to manage their vehicle fleet serviced through Goodyear. The critical problem: Goodyear provided no documented API for third-party integration. No one had successfully connected both systems before, and Amazon's timeline was tight.",
-    approach:
-      "We reverse-engineered Goodyear's existing workflow, mapped their internal processes to API endpoints, and built a custom integration layer that unified both companies' fleet management processes into a single platform.",
-    implementation:
-      "Built the integration using Node.js and Express.js with MongoDB for data persistence. Created a middleware layer that translated between Amazon's data format and Goodyear's undocumented endpoints. Implemented error handling and retry logic for reliability.",
-    results: [
-      { metric: '3 weeks', label: 'Integration completed' },
-      { metric: '0', label: 'API documentation available (built from scratch)' },
-      { metric: '2', label: 'Fortune-adjacent companies connected' },
-      { metric: '100%', label: 'Workflow automation achieved' },
-    ],
-    testimonial: {
-      quote:
-        "The Goodyear integration had no documentation. Hitesh figured it out in 3 weeks when others said it couldn't be done.",
-      author: 'Product Manager',
-      role: 'Product Manager at ServiceUp',
-      avatar: '/images/testimonials/placeholder.jpg',
-    },
-    techStack: ['Node.js', 'Express.js', 'MongoDB'],
-    timeline: '3 weeks',
-    imageUrl: '/images/case-studies/serviceup.jpg',
-  },
+  // {
+  //   id: 'serviceup',
+  //   title: 'ServiceUp',
+  //   subtitle: 'Connecting Amazon and Goodyear with zero documentation',
+  //   industry: 'Automotive / Fleet Management',
+  //   clientName: 'ServiceUp',
+  //   clientCountry: 'US',
+  //   flagEmoji: '🇺🇸',
+  //   featured: true,
+  //   challenge:
+  //     "Amazon needed a platform to manage their vehicle fleet serviced through Goodyear. The critical problem: Goodyear provided no documented API for third-party integration. No one had successfully connected both systems before, and Amazon's timeline was tight.",
+  //   approach:
+  //     "We reverse-engineered Goodyear's existing workflow, mapped their internal processes to API endpoints, and built a custom integration layer that unified both companies' fleet management processes into a single platform.",
+  //   implementation:
+  //     "Built the integration using Node.js and Express.js with MongoDB for data persistence. Created a middleware layer that translated between Amazon's data format and Goodyear's undocumented endpoints. Implemented error handling and retry logic for reliability.",
+  //   results: [
+  //     { metric: '3 weeks', label: 'Integration completed' },
+  //     { metric: '0', label: 'API documentation available (built from scratch)' },
+  //     { metric: '2', label: 'Fortune-adjacent companies connected' },
+  //     { metric: '100%', label: 'Workflow automation achieved' },
+  //   ],
+  //   testimonial: {
+  //     quote:
+  //       "The Goodyear integration had no documentation. Hitesh figured it out in 3 weeks when others said it couldn't be done.",
+  //     author: 'Product Manager',
+  //     role: 'Product Manager at ServiceUp',
+  //     avatar: '/images/testimonials/placeholder.jpg',
+  //   },
+  //   techStack: ['Node.js', 'Express.js', 'MongoDB'],
+  //   timeline: '3 weeks',
+  //   imageUrl: '/images/case-studies/serviceup.jpg',
+  // },
   {
     id: 'vgroup',
     title: 'V.Group',
